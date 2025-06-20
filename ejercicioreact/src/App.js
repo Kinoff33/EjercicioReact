@@ -158,7 +158,7 @@ function App() {
                 </div>
               </Form>
 
-              {/* Sección para mostrar los resultados */}
+             
               {results && (
                 <Card className="mt-4 bg-light">
                   <Card.Body>
